@@ -1,5 +1,7 @@
 # Arduino-UNO-Calculator.
 
+Calculator for performing Decimal operation on numbers and returning binary value (Answer).
+
 ## Project Resources
 
 ### Hardware:
@@ -11,14 +13,13 @@
 
 1. [Arduino](https://www.arduino.cc/en/Main/Software)
 
-## Features
+## Features and Functionality
 
-## Images
+Can perform 1. Addition 2. Subtraction 3. Multiplication 4. Division
 
-#### 1. Instruction Screen
+## Working Process
 
-![Instruction Screen]()
-
-#### 2. Final Answer Screen
-
-![Final Answer Screen]()
+    1. The user selects add, subtract, multiply, or divide with Keypad Button
+    2. The user inputs the first value
+    3. The user inputs the second value
+    4. Answer is calculated and printed to LCD Shield
