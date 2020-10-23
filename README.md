@@ -1,6 +1,6 @@
 # Arduino-UNO-Calculator.
 
-Calculator for performing Decimal operation on numbers and returning binary value for calculated answer.
+Calculator for performing operation on decimal numbers and returning binary value for calculated answer.
 
 ## Project Resources
 
