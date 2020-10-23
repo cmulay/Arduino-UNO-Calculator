@@ -1,6 +1,6 @@
 # Arduino-UNO-Calculator.
 
-Calculator for performing Decimal operation on numbers and returning binary value (Answer).
+Calculator for performing Decimal operation on numbers and returning binary value for calculated answer.
 
 ## Project Resources
 
@@ -15,11 +15,20 @@ Calculator for performing Decimal operation on numbers and returning binary valu
 
 ## Features and Functionality
 
-Can perform 1. Addition 2. Subtraction 3. Multiplication 4. Division
+Can perform 
+ 1. Addition 
+ 2. Subtraction 
+ 3. Multiplication 
+ 4. Division
 
 ## Working Process
 
-    1. The user selects add, subtract, multiply, or divide with Keypad Button
-    2. The user inputs the first value
-    3. The user inputs the second value
-    4. Answer is calculated and printed to LCD Shield
+ 1. The user is greeted with a menu containing operations like :
+    1. Addition, 
+    2. Subtraction, 
+    3. Multiplication, 
+    4. Division 
+ 2. With help of Buttons present on LCD Keypad the user can select desired operation.
+ 3. User enters the first number.
+ 4. User enters the second number.
+ 5. Answer is calculated from defined functions and printed to LCD Shield.
